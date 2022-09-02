@@ -1,1 +1,1 @@
-# ml_like_text_generator
+# ML-like Text Generator
